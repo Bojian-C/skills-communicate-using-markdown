@@ -7,3 +7,6 @@
 
 Well, so the tutorial did not work, you have to open the index.md file from the root directory and edit it. 
 the fewer '#' in the code, the larger the header.
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
